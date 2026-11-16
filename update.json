@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 1,
+  "versionName": "27.0.0",
   "apkUrl": "https://github.com/mohrezsi27/persiasnapcopytext/releases/download/v1.1.0/CopyText-v1.1.0.apk",
   "notes": "• بهبود دقت تشخیص متون پارسی\n• افزایش سرعت پردازش تصویر"
 }
